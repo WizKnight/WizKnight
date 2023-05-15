@@ -20,7 +20,7 @@ I'm a passionate data scientist with a strong background in statistics and machi
 - Version Control: Git, GitHub
 
 ## 📚 Education
-- B Tech. Electronics & Telecommunication Engineering, Nagpur University, [2022]
+- B Tech. in Electronics & Telecommunication Engineering, Nagpur University, [2022]
 
 ## 💼 Virtual Internship
 - Data Scientist at [Company Name], [Year - Present]
@@ -33,12 +33,12 @@ I'm a passionate data scientist with a strong background in statistics and machi
   - Conducted A/B testing and analyzed experimental results to drive business decisions.
 
 ## 📫 How to Reach Me
-- LinkedIn: [[Your LinkedIn Profile UR](https://www.linkedin.com/in/swapniljikar/)L]
+- LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/swapniljikar/)]
 - Email: [sjikar65@gmail.com]
 
 ## 🌐 Check Out My Work
-- Portfolio: [[Your Portfolio Website URL](https://sjikar65.wixsite.com/portfolio)]
-- Medium: [[Your Medium Blog URL](https://medium.com/@sjikar65)]
+- Portfolio: [[Portfolio Website](https://sjikar65.wixsite.com/portfolio)]
+- Medium: [[Medium Blog](https://medium.com/@sjikar65)]
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)

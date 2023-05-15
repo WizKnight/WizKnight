@@ -23,14 +23,14 @@ I'm a passionate data scientist with a strong background in statistics and machi
 - B Tech. in Electronics & Telecommunication Engineering, Nagpur University, [2022]
 
 ## 💼 Virtual Internship
-- Data Scientist at [Company Name], [Year - Present]
-  - Developed machine learning models to predict customer behavior and optimize marketing campaigns.
+- Data Scientist [British Airways], [2023]
+  - Developed machine learning models to predict customer buying behavior and factors that influence buying behavior.
   - Conducted in-depth analysis of large-scale datasets to identify patterns and trends.
-  - Collaborated with cross-functional teams to deploy data-driven solutions into production.
-- Data Analyst at [Company Name], [Year - Year]
+  - 
+- Data Scientist [Standard Bank], [2023]
   - Performed data cleaning and transformation to enable accurate analysis.
   - Created interactive visualizations to communicate insights to stakeholders.
-  - Conducted A/B testing and analyzed experimental results to drive business decisions.
+  - Developed machine learning model to predict if the customer is going to be a loan defaulter.
 
 ## 📫 How to Reach Me
 - LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/swapniljikar/)]
@@ -41,5 +41,5 @@ I'm a passionate data scientist with a strong background in statistics and machi
 - Medium: [[Medium Blog](https://medium.com/@sjikar65)]
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=WizKnight&show_icons=true&theme=radical)
 

@@ -1,4 +1,4 @@
-# Hi there, I'm [Swapnil Jikar]! 👋
+# Hi there, I'm Swapnil Jikar! 👋
 
 ## `🚀 About Me`
 I'm a passionate data scientist with a strong background in statistics and machine learning. I love exploring and analyzing complex data sets to extract meaningful insights and create data-driven solutions. I have experience in Python and SQL, and I'm always eager to learn new technologies and techniques in the field of data science.

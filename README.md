@@ -41,14 +41,10 @@ I'm a passionate data scientist with a strong background in statistics and machi
 - Medium: [[Medium Blog](https://medium.com/@sjikar65)]
 
 ## `📊 GitHub Stats` 
-<p align="center"> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WizKnight&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="WizKnight" />
-</p>
 <p align='center'> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=WizKnight&show_icons=true&theme=tokyonight"/> </p>
 <p align='center'> <img src="http://github-readme-streak-stats.herokuapp.com?user=WizKnight&theme=neon-palenight" width="50%"  alt="streak"> </p>
 <div align="center">
-<summary>:trophy: Github Profile Trophy</summary>
-</div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MoinDalvs&show_icons=true&theme=discord" alt="WizKnight" />
+
 </a> </p>
 
 <div style="align:center;

@@ -41,7 +41,6 @@ I'm a passionate data scientist with a strong background in statistics and machi
 - Medium: [[Medium Blog](https://medium.com/@sjikar65)]
 
 ## `📊 GitHub Stats` 
-<p align='center'> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=WizKnight&show_icons=true&theme=tokyonight"/> </p>
 <p align='center'> <img src="http://github-readme-streak-stats.herokuapp.com?user=WizKnight&theme=neon-palenight" width="50%"  alt="streak"> </p>
 <div align="center">
 

@@ -1,63 +1,43 @@
-# Hi there, I'm Swapnil Jikar! 👋
+# Hi there, I'm Swapnil Jikar 👋 
 
-## `🚀 About Me`
-I'm a passionate data scientist with a strong background in statistics and machine learning. I love exploring and analyzing complex data sets to extract meaningful insights and create data-driven solutions. I have experience in Python and SQL, and I'm always eager to learn new technologies and techniques in the field of data science.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0366d6&lines=Data+Scientist+%F0%9F%94%A5;NLP+Engineer+%E2%9C%A8;AI+Enthusiast+%F0%9F%A4%96)](https://git.io/typing-svg)
 
-## `🔬 Skills`
-- Data Analysis and Visualization
-- Machine Learning
-- Statistical Modeling
-- Data Wrangling and Cleaning
-- Predictive Modeling
-- Cloud Computing (AWS, Azure)
+## 🚀 About Me
+I'm a passionate data scientist and NLP engineer with a proven track record of building impactful AI solutions. I thrive on transforming raw data into actionable insights and creating intelligent applications that leverage cutting-edge techniques like large language models (LLMs).
 
-## `🛠️ Tools and Technologies`
-- Programming Languages: Python, SQL
-- Data Science Libraries: Pandas, NumPy, Scikit-learn
-- Data Visualization: Matplotlib, Seaborn, Plotly
-- Database Technologies: MySQL, MongoDB
-- Cloud Platforms: AWS, Azure
-- Version Control: Git, GitHub
+## ✨ Key Skills & Interests
+* **Data Science & ML:** Data Analysis, Visualization, Machine Learning, Predictive Modeling
+* **NLP & AI:** Large Language Models (LLMs), LangChain, Information Retrieval, Natural Language Processing
+* **Languages & Tools:** Python, SQL, Scikit-learn, Keras, Transformers, Pandas, NumPy, SciPy, Matplotlib, NLTK, SpaCy, PyTorch, TensorFlow, Streamlit
 
-## `📚 Education`
-- B Tech. in Electronics & Telecommunication Engineering, Nagpur University, [2022]
+## 🏆 Featured Projects
 
-## 💼 Virtual Internship
-- Data Scientist [British Airways], [2023]
-  - Developed machine learning models to predict customer buying behavior and factors that influence buying behavior.
-  - Conducted in-depth analysis of large-scale datasets to identify patterns and trends.
-  - 
-- Data Scientist [Standard Bank], [2023]
-  - Performed data cleaning and transformation to enable accurate analysis.
-  - Created interactive visualizations to communicate insights to stakeholders.
-  - Developed machine learning model to predict if the customer is going to be a loan defaulter.
+* **DataChat:** A conversational data analysis tool that allows users to query their datasets using natural language. (Python, LangChain, Ollama, Streamlit, Pandas)
+* **English-to-Spanish Machine Translation App:** A real-time translation app achieving a BLEU score of 22.96. (Python, PyTorch, Hugging Face Transformers, Streamlit, Docker)
+* **RAGtime (In Progress):** A hybrid search/question answering system combining semantic and keyword retrieval. (Python, NLP, Hugging Face Transformers, Langchain, Pinecone)
 
-## `📫 How to Reach Me`
-- LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/swapniljikar/)]
-- Email: [sjikar65@gmail.com]
+## 🌱 Learning & Growth
 
-## `🌐 Check Out My Work`
-- Portfolio: [[Portfolio Website](https://sjikar65.wixsite.com/portfolio)]
-- Medium: [[Medium Blog](https://medium.com/@sjikar65)]
+I'm constantly seeking new challenges and opportunities to expand my knowledge in the ever-evolving world of data science and AI. I'm particularly interested in:
 
-## `📊 GitHub Stats` 
-<p align='center'> <img src="http://github-readme-streak-stats.herokuapp.com?user=WizKnight&theme=neon-palenight" width="50%"  alt="streak"> </p>
+* **LLM Applications:** Exploring innovative uses of large language models beyond traditional NLP tasks.
+* **Responsible AI:** Developing AI solutions that are fair, transparent, and ethical.
+
+## 💼 Experience
+* **Artificial Intelligence Intern:** Greenie Web (Remote, Singapore) | Nov 2023 - Apr 2024
+
+## 🎓 Education
+* **B.Tech. in Electronics & Tele-Communication Engineering:** St. Vincent Palloti College of Engineering & Technology, Nagpur University | 2022
+
+## 📫 Let's Connect!
+
+* **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/swapniljikar/)]
+* **Email:** sjikar65@gmail.com
+* **Portfolio:** [[Portfolio Website](https://sjikar65.wixsite.com/portfolio)]
+* **Medium:** [[Medium Blog](https://medium.com/@sjikar65)]
+
 <div align="center">
-
-</a> </p>
-
-<div style="align:center;
-            display:fill;
-            border-radius: false;
-            border-style: solid;
-            border-color:#000000;
-            border-style: false;
-            border-width: 2px;
-            color:#CF673A;
-            font-size:15px;
-            font-family: Georgia;
-            background-color:#E8DCCC;
-            text-align:center;
-            letter-spacing:0.1px;
-            padding: 0.1em;">
-
+<a href="https://github.com/WizKnight">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=WizKnight&theme=neon-palenight" alt="GitHub Stats" width="50%"/>
+</a>
+</div>

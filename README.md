@@ -24,7 +24,7 @@ I'm constantly seeking new challenges and opportunities to expand my knowledge i
 * **Responsible AI:** Developing AI solutions that are fair, transparent, and ethical.
 
 ## 💼 Experience
-* **Artificial Intelligence Intern:** Greenie Web (Remote, Singapore) | Nov 2023 - Apr 2024
+* **Artificial Intelligence Intern:** Greenie Web (Remote, Singapore) | Dec 2023 - Jul 2024
 
 ## 🎓 Education
 * **B.Tech. in Electronics & Tele-Communication Engineering:** St. Vincent Palloti College of Engineering & Technology, Nagpur University | 2022
